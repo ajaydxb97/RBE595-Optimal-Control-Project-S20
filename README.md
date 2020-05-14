@@ -12,4 +12,16 @@ either as 1 or as 11. The player competes against the dealer. The game begins wi
 4) matplotlib library
 5) seaborn library
 
+## Code
+The code is divided into 3 Python scripts.
+1) main.py: This is the main file and you may use this script to run the Monte Carlo methods, and plot and save the results.
+2) monte_carlo.py: This file contains a class that implements on and off policy Monte Carlo prediction and Monte Carlo control with exploring starts.
+3) blackjack.py: This file contains a class that simulates a game of the blackjack variation described.
+
 ## How to Run
+First, navigate to the code/ folder.
+Then in the main.py script, choose which algorithms you want to run and get the results. You may comment the methods you do not wish to run.
+Finally, run the main.py script. In Ubuntu, if you have Python 3 installed and is available in bash, this is simply:
+```
+python 3 main.py
+```
