@@ -27,4 +27,10 @@ python 3 main.py
 ```
 ## Results
 ### On-Policy Monte Carlo Prediction
-<img src="https://github.com/ajaydxb97/RBE595-Optimal-Control-Project-S20/blob/master/figures/Pred1.png" align="middle" width=80% height=80%>
+<img src="https://github.com/ajaydxb97/RBE595-Optimal-Control-Project-S20/blob/master/figures/Pred1.png" align="middle" width=85% height=85%>
+
+### Off-Policy Monte Carlo Estimation Error Comparison (Weighted Importance Sampling vs Ordinary Importance Sampling)
+<img src="https://github.com/ajaydxb97/RBE595-Optimal-Control-Project-S20/blob/master/figures/Off.png" align="middle" width=85% height=85%>
+
+### On-Policy Monte Carlo Control
+<img src="https://github.com/ajaydxb97/RBE595-Optimal-Control-Project-S20/blob/master/figures/Control2.png" align="middle" width=85% height=85%>
