@@ -27,9 +27,11 @@ python 3 main.py
 ```
 ## Results
 ### On-Policy Monte Carlo Prediction
+#### Policy chosen: Stick if player sum  is 20 or 21, else hit.
 <img src="https://github.com/ajaydxb97/RBE595-Optimal-Control-Project-S20/blob/master/figures/Pred1.png" align="middle" width=85% height=85%>
 
-### Off-Policy Monte Carlo Estimation Error Comparison (Weighted Importance Sampling vs Ordinary Importance Sampling)
+### Off-Policy Monte Carlo State Value Estimation Error Comparison (Weighted Importance Sampling vs Ordinary Importance Sampling)
+#### State chosen: Dealer shows a deuce, player sum is 13, player has a usable ace.
 <img src="https://github.com/ajaydxb97/RBE595-Optimal-Control-Project-S20/blob/master/figures/Off.png" align="middle" width=65% height=65%>
 
 ### On-Policy Monte Carlo Control
