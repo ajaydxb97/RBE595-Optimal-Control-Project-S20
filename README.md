@@ -27,4 +27,4 @@ python 3 main.py
 ```
 ## Results
 ### On-Policy Monte Carlo Prediction
-<img src="https://github.com/ajaydxb97/RBE595-Optimal-Control-Project-S20/blob/master/figures/Pred1.png" align="middle" width=50% height=50%>
+<img src="https://github.com/ajaydxb97/RBE595-Optimal-Control-Project-S20/blob/master/figures/Pred1.png" align="middle" width=80% height=80%>
