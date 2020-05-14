@@ -25,3 +25,6 @@ Finally, run the main.py script. In Ubuntu, if you have Python 3 installed and i
 ```
 python 3 main.py
 ```
+## Results
+### On-Policy Monte Carlo Prediction
+<img src="https://github.com/ajaydxb97/RBE595-Optimal-Control-Project-S20/blob/master/figures/Pred1.png" align="middle" width=20% height=20%>
